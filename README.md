@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohamed Essam
 
-**Doctor turned data tinkerer.**  
+**Doctor and data tinkerer.**  
 M.B.B.S. | Clinical research meets code | AI for medicine & neuroscience | Gilbert, AZ
 
 ---
