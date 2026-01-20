@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohamed Essam
 
 **Doctor and data tinkerer.**  
-M.B.B.S. | Clinical research meets code | AI for medicine & neuroscience | Gilbert, AZ
+M.B.B.S. | Clinical research meets code | AI for medicine & neuroscience 
 
 ---
 
