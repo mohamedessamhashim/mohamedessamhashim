@@ -2,7 +2,7 @@
 
 ### **Computational Clinician-Scientist | U.S. Citizen**
 
-**Bridging Clinical Neurology and AI Research**
+**Bridging Clinical Knowledge and AI Research**
 
 ---
 
