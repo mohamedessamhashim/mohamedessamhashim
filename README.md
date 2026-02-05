@@ -8,7 +8,7 @@
 
 ## 🔬 Professional Overview
 
-I am a physician and researcher focused on the **Strategic Integration of AI into Neuro-oncology and Vascular Neurology**. Currently, I serve as a Research Collaborator at the **Kann Lab (Brigham and Women's Hospital/Harvard Medical School)** and the **Institute for Health Metrics and Evaluation (University of Washington)**.
+I am a physician and researcher focused on the **Strategic Integration of AI into Clinical Medicine**. Currently, I serve as a Research Collaborator at the **Kann Lab (Brigham and Women's Hospital/Harvard Medical School)** and the **Institute for Health Metrics and Evaluation (University of Washington)**.
 
 My work centers on developing **LLM-assisted segmentation pipelines** and **multimodal fusion architectures** to solve diagnostic bottlenecks in resource-constrained environments.
 
