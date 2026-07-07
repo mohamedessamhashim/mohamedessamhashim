@@ -1,4 +1,4 @@
-# Mohamed Essam Hashim, M.B., B.S.
+# 🤖🧠 Mohamed Essam Hashim, M.B., B.S.
 
 ### Computational Clinician-Scientist — Medical AI & Quantitative Neuroimaging
 
