@@ -71,7 +71,7 @@ Web application integrating NIHSS, BE-FAST+, and ASPECTS scoring with AHA/ASA gu
 ## 🚀 Ventures & Leadership
 
 - **Founder — Craniolabs** (Medical AI, 2025): clinical data pipelines for 300+ CT/MRI scans in low-resource hospitals; accepted into the **NVIDIA Inception** program; raised a $15K bridge round; assembled a founding team including FDA regulatory advisors and Fortune-500 engineers.
-- **Project Lead — MARC-Osler Initiative** (2026): federated-learning network for decentralized brain-tumor segmentation; partnered with **MLCommons MedPerf** and collaborated with Dr. Spyridon Bakas on the international node framework.
+- **Project Lead — MARC-Osler Initiative** (2026): federated-learning network for decentralized brain-tumor segmentation; partnered with **MLCommons MedPerf** on the international node framework.
 
 ---
 
