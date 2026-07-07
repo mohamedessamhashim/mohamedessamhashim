@@ -1,8 +1,8 @@
 # 🤖🧠 Mohamed Essam Hashim, M.B., B.S.
 
-### Computational Clinician-Scientist — Medical AI & Quantitative Neuroimaging
+### Computational Clinician-Scientist | Medical AI & Quantitative Neuroimaging
 
-Physician-researcher building **multimodal deep-learning systems for clinical neuroimaging** — from 3D tumor segmentation to LLM-assisted diagnostic pipelines — with a focus on deployment in resource-constrained settings. U.S. Citizen.
+Physician-researcher building **multimodal deep-learning systems for neuroscience**, from 3D tumor segmentation to quantitative imaging AI pipleines. U.S. Citizen.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![MONAI](https://img.shields.io/badge/MONAI-0E7C7B?style=flat&logoColor=white)
@@ -22,7 +22,7 @@ Physician-researcher building **multimodal deep-learning systems for clinical ne
 - **Global Burden of Disease Collaborator — IHME, University of Washington**
   Neurological-disease and neuro-oncology burden estimation for North Africa & the Middle East.
 
-> M.B., B.S. with Distinction / First-Class Honours — graduated at 19. NVIDIA Inception founder. AAAS member.
+> M.B., B.S. with Distinction / First-Class Honours (graduated at 19. NVIDIA Inception founder. AAAS member.)
 
 ---
 
@@ -85,6 +85,6 @@ Web application integrating NIHSS, BE-FAST+, and ASPECTS scoring with AHA/ASA gu
 
 ## 🤝 Contact
 
-Seeking PhD opportunities and collaborations in **computational neuroscience and medical AI**, with an emphasis on translating foundation models into clinical workflows.
+Seeking PhD opportunities and collaborations in **computational neuroscience and medical AI**, with an emphasis on translating foundation models.
 
 📧 mohamedessamhashim@gmail.com  ·  💼 [LinkedIn](https://linkedin.com/in/mohamedehashim)  ·  💻 [GitHub](https://github.com/mohamedessamhashim)
