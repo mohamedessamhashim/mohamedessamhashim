@@ -13,7 +13,7 @@ Physician-researcher building **multimodal deep-learning systems for clinical ne
 
 ---
 
-## 🎓 Current Roles
+## 🎓 Research Roles
 
 - **Research Fellow — University Hospitals Cleveland Medical Center / Case Western Reserve University**
   Quantitative MRI in neurological disease (glioblastoma, multiple sclerosis).
