@@ -17,7 +17,7 @@ Physician-researcher building **multimodal deep-learning systems for neuroscienc
 
 - **Research Fellow — University Hospitals Cleveland Medical Center / Case Western Reserve University**
   Quantitative MRI in neurological disease (glioblastoma, multiple sclerosis).
-- **Medical AI Research Collaborator — Kann Lab, Harvard Medical School**
+- **Visiting Researcher — Kann Lab, Harvard Medical School**
   LLM-assisted segmentation and text–imaging fusion for pediatric gliomas (BraTS-PEDs).
 - **Global Burden of Disease Collaborator — IHME, University of Washington**
   Neurological-disease and neuro-oncology burden estimation for North Africa & the Middle East.
